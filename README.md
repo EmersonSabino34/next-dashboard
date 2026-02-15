@@ -6,6 +6,7 @@
 npm create next-app@latest
 ```
 
+
 * Rodando projeto
 ```
 npm run dev
