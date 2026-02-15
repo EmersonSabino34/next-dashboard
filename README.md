@@ -11,7 +11,6 @@ npm create next-app@latest
 npm run dev
 ```
 
-
 #### Shadcn [x] UI
 *  *** Site oficial ***
 ```
