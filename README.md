@@ -1,6 +1,5 @@
 #### Next Typescript e  Shadcn ui 🔥
 
-
 #### [x] Criando projeto
 *  Criando projeto
 ```
