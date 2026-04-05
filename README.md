@@ -5,7 +5,6 @@
 ```
 npm create next-app@latest
 ```
-
 * Rodando projeto
 ```
 
